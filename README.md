@@ -1,3 +1,9 @@
+## Preview:
+![Sports Quote Generator](https://github.com/SohamB21/Sports-Quote-Generator-ReactJS/assets/105418470/84da0f67-171e-463a-9b7c-c6594d1cb2ae)
+
+I have hosted it on Vercel, check it out from here: https://sports-quote-generator-react-js.vercel.app/
+
+
 ## Getting Started
 Follow these steps to get started with the "Sports Quote Generator" project:
 
