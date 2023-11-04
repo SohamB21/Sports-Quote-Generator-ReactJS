@@ -23,7 +23,7 @@ npm run dev
 ```
 
 Ensure that you are in the project folder when running these commands.
-Now, you can explore and enjoy the "Sports Quote Generator" web application. Generate, copy and share inspirational sports quotes with ease!
+Now, you can explore and enjoy "Sports Quote Generator". Generate, copy and share inspirational sports quotes with ease!
 Feel free to provide any feedback or suggestions to help me improve the project.
 
 ---
